@@ -23,6 +23,7 @@ Below are some of the languages, frameworks, and libraries I'm familiar with.
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Node](https://img.shields.io/badge/node-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://www.mongodb.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 
 ## Just in-case you're bored now. Take a visit from Arms, The Fox to lighten up your day!
 <img aligh="right" width="295" src="https://i.giphy.com/media/7G3gT88XSp0QM/giphy.webp" alt="arms, the fox" />
